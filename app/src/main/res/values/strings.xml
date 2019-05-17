@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginAndDatabase</string>
+    <string name="user_loging">USER LOGING</string>
+    <string name="user_login">user_login</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="user_login_form">USER LOGIN FORM</string>
+    <string name="enter_your_password">ENTER YOUR PASSWORD</string>
+    <string name="enter_your_user_name">ENTER YOUR USER NAME</string>
+    <string name="registration_from">REGISTRATION FROM</string>
+    <string name="comferm_password">comferm password</string>
+    <string-array name="my_users">
+        <item>veddy</item>
+        <item>vedaste</item>
+        <item>ipelino</item>
+        <item>uwihanganye</item>
+        <item>delphine</item>
+
+    </string-array>
+</resources>
